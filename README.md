@@ -34,7 +34,7 @@
 <img height=180 src='https://github-readme-stats.vercel.app/api?username=Kseos&theme=radical&show_icons=true&hide_border=true&count_private=true'/> <img height=180 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kseos&theme=radical&show_icons=true&hide_border=true&layout=compact'/>
 
 <picture>
- <source height=140 media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f14a8529-985d-493e-b82b-69ce7a3ba464">
- <source height=140 media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b7880d2e-0cd2-4650-94c7-31b929232c8f">
- <img height=140 alt="Thanks for visiting banner" src="https://github.com/user-attachments/assets/f14a8529-985d-493e-b82b-69ce7a3ba464">
+ <source height=120 media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f14a8529-985d-493e-b82b-69ce7a3ba464">
+ <source height=120 media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b7880d2e-0cd2-4650-94c7-31b929232c8f">
+ <img height=120 alt="Thanks for visiting banner" src="https://github.com/user-attachments/assets/f14a8529-985d-493e-b82b-69ce7a3ba464">
 </picture>
